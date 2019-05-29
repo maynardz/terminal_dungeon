@@ -13,4 +13,4 @@ Commands you will use:
 <strong>dir</strong> - see what's inside the folder you're currently in
 
 
-<i>Be sure to run this in the command prompt itself. No cheating in VSCode!</i>
+<i>Be sure to traverse the dungeon in the command prompt itself. No cheating in VSCode!</i>
