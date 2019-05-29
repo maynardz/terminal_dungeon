@@ -11,3 +11,6 @@ Commands you will use:
 <strong>cd..</strong> - go back a directory
 <br>
 <strong>dir</strong> - see what's inside the folder you're currently in
+
+
+<i>Be sure to run this in the command prompt itself. No cheating in VSCode!</i>
