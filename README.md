@@ -15,4 +15,4 @@ Commands you will use:
 
 <strong><i>Be sure to traverse the dungeon in the command prompt itself. No cheating in VSCode!</i></strong>
 
-<strong style="color: 333">Tip: <i>Hitting tab after starting to type will autofill.</i></strong>
+<strong style="color: red">Tip: <i>Hitting tab after starting to type will autofill.</i></strong>
