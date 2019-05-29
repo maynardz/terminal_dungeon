@@ -14,3 +14,5 @@ Commands you will use:
 
 
 <i>Be sure to traverse the dungeon in the command prompt itself. No cheating in VSCode!</i>
+
+<i>Tip: Hitting tab after starting to type will autofill.</i>
