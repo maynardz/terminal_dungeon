@@ -10,7 +10,7 @@ Commands you will use:
 <br>
 <strong>cd..</strong> - go back a directory
 <br>
-<strong>dir</strong> - see what's inside the folder you're currently in
+<strong>dir (Windows) - ls (Mac)</strong> - see what's inside the folder you're currently in
 
 
 <strong><i>Be sure to traverse the dungeon in the command prompt itself. No cheating in VSCode!</i></strong>
